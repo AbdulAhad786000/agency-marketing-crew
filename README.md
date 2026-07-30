@@ -8,9 +8,14 @@ Built with [CrewAI](https://crewai.com), [Groq](https://console.groq.com), and [
 
 ## 📸 Screenshots
 
-| Web Interface | Generated Output |
-|---|---|
-| ![App UI](assets/screenshots/app_main.png) | ![Output](assets/screenshots/app_output.png) |
+**Main Interface — Live agent pipeline + activity log**
+![App UI](assets/screenshots/app_main.png)
+
+**Generated Output — Ready-to-send cold email**
+![Output](assets/screenshots/app_output.png)
+
+**Sidebar — Campaign settings & content type selector**
+![Sidebar](assets/screenshots/app_sidebar.png)
 
 ---
 
