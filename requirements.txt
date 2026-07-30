@@ -1,0 +1,13 @@
+# Core framework
+crewai[google-genai,litellm]>=1.0.0
+crewai-tools>=0.25.0
+
+# LLM providers
+litellm>=1.0.0
+groq>=0.9.0
+
+# Web interface
+streamlit>=1.60.0
+
+# Utilities
+python-dotenv>=1.0.0
